@@ -11,6 +11,7 @@
 		04C7F05C29E4EB9400F53420 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7F05B29E4EB9400F53420 /* ContentView.swift */; };
 		04C7F05E29E4EB9500F53420 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C7F05D29E4EB9500F53420 /* Assets.xcassets */; };
 		04C7F06129E4EB9500F53420 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C7F06029E4EB9500F53420 /* Preview Assets.xcassets */; };
+		04C7F06929E4F0BB00F53420 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7F06829E4F0BB00F53420 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		04C7F05D29E4EB9500F53420 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04C7F06029E4EB9500F53420 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04C7F06229E4EB9500F53420 /* Landmarks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Landmarks.entitlements; sourceTree = "<group>"; };
+		04C7F06829E4F0BB00F53420 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				04C7F05929E4EB9400F53420 /* LandmarksApp.swift */,
 				04C7F05B29E4EB9400F53420 /* ContentView.swift */,
+				04C7F06829E4F0BB00F53420 /* CircleImage.swift */,
 				04C7F05D29E4EB9500F53420 /* Assets.xcassets */,
 				04C7F06229E4EB9500F53420 /* Landmarks.entitlements */,
 				04C7F05F29E4EB9500F53420 /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				04C7F05C29E4EB9400F53420 /* ContentView.swift in Sources */,
 				04C7F05A29E4EB9400F53420 /* LandmarksApp.swift in Sources */,
+				04C7F06929E4F0BB00F53420 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
